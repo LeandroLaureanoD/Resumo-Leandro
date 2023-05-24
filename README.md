@@ -8,4 +8,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />	
 </div>
-![Snake animation](https://github.com/LeandroLaureanoD/LeandroLaureanoD/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeandroLaureanoD/blob/output/github-contribution-grid-snake.svg)
