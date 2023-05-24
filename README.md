@@ -19,4 +19,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
   
+  
 ![Snake animation](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
