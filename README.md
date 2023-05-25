@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroLaureanoD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## TECNOLOGIAS QUE UTILIZO
+### TECNOLOGIAS QUE UTILIZO
 
 <div>
  <a href="https://github.com/leandrolaureanod">
