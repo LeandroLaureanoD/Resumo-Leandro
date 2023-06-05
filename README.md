@@ -4,22 +4,22 @@
 
 <div>
 <a href="https://github.com/LeandroLaureanoD">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolaureanod&layout=compact"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolaureanod&layout=compact"/>   
+ &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolaureanod&show_icons=true"/>
-</div>
+</div><br><br>
 
-### TECNOLOGIAS QUE UTILIZO
-
-<div>
+<div  style="margin: 200px">
+ ### TECNOLOGIAS QUE UTILIZO <br><br>
  <a href="https://github.com/leandrolaureanod">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
-  
-  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> &nbsp; &nbsp;        
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
+</div>
+ 
 ![Snake animation](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
