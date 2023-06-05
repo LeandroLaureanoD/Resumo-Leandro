@@ -9,7 +9,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolaureanod&show_icons=true"/>
 </div><br><br>
 
-<div  style="margin: 200px">
+<div  align="center">
  ### TECNOLOGIAS QUE UTILIZO <br><br>
  <a href="https://github.com/leandrolaureanod">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> &nbsp; &nbsp;        
