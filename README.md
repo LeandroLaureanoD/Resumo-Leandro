@@ -10,7 +10,7 @@
 </div><br><br>
 
 <div  align="center">
- ### TECNOLOGIAS QUE UTILIZO <br><br>
+ TECNOLOGIAS QUE UTILIZO <br><br>
  <a href="https://github.com/leandrolaureanod">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> &nbsp; &nbsp;        
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp; &nbsp; 
