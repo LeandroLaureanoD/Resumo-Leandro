@@ -4,7 +4,11 @@
 <a href="https://linkedin.com/in/leandro-laureano-durães-625308101/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%; height: 27px;" padding-left="10"></a>
 </div>
 
-<p align="justify" dir="auto">Possuo formações em Análise e Desenvolvimento de Sistemas, Técnico em Informática (ambas pela Faculdade Cotemig) e certificações na área de desenvolvimento. Trabalhei muitos anos com suporte ao usuário e infraestrutura de servidores, com esse conhecimento, tenho uma visão que possibilita desenvolver um software mais eficiente tanto para o servidor quanto para o usuário ao utilizar.
+<p align="justify" dir="auto">Natural de Belo Horizonte - Minas Gerais, sou
+                  <strong>desenvolvedor</strong> e já atuei como analista de sistemas.
+                  Possuo formações em <strong>Análise e Desenvolvimento de Sistemas</strong>, Técnico em Informática (ambas pela Faculdade Cotemig) 
+                  e <strong>certificações</strong> na área de desenvolvimento. Trabalhei muitos anos com suporte ao usuário e infraestrutura de servidores, 
+                  com esse conhecimento, tenho uma visão que possibilita desenvolver um software mais eficiente tanto para o servidor quanto para o usuário ao utilizar
 </p>
  
 <h2 dir="auto"><a id="user-content-habilidades-que-possuo-conhecimento-front-end-" class="anchor" aria-hidden="true" href="#habilidades-que-possuo-conhecimento-front-end-"></a>Habilidades que possuo conhecimento
