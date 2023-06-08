@@ -31,7 +31,7 @@
  <h2 dir="auto"><a id="user-content-habilidades-que-possuo-conhecimento-front-end-" class="anchor" aria-hidden="true" href="#habilidades-que-possuo-conhecimento-front-end-"></a>Técnologias que estudo no meu dia a dia</h2>
 
  <a href="https://github.com/LeandroLaureanoD">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolaureanod&layout=compact"/>   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolaureanod&theme=transparent"/>   
  &nbsp; &nbsp;
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolaureanod&show_icons=true&theme=transparent"/>
 </div><br><br>
