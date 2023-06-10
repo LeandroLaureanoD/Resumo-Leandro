@@ -7,8 +7,9 @@
 <p align="justify" dir="auto">Natural de Belo Horizonte - Minas Gerais, sou
                   <strong>desenvolvedor</strong> e já atuei como analista de sistemas.
                   Possuo formações em <strong>Análise e Desenvolvimento de Sistemas</strong>, Técnico em Informática (ambas pela Faculdade Cotemig) 
-                  e <strong>certificações</strong> na área de desenvolvimento. Trabalhei muitos anos com suporte ao usuário e infraestrutura de servidores, 
-                  com esse conhecimento, tenho uma visão que possibilita desenvolver um software mais eficiente tanto para o servidor quanto para o usuário ao utilizar
+                  e <strong>certificações</strong> na área de desenvolvimento. A experiência que obtive durante mais de cinco anos trabalhando com 
+                  suporte ao usuário e infraestrutura de servidores, me possibilitou ter uma visão mais abrangente sobre as necessidades do usuário, 
+                  oferecendo agilidade e clareza na construção do software.
 </p>
  
 <h2 dir="auto"><a id="user-content-habilidades-que-possuo-conhecimento-front-end-" class="anchor" aria-hidden="true" href="#habilidades-que-possuo-conhecimento-front-end-"></a>Habilidades que possuo conhecimento
