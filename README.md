@@ -42,3 +42,5 @@
 </div><br><br>
    
 ![snake gif](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
+
