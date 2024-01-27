@@ -45,7 +45,3 @@
  &nbsp; &nbsp;
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolaureanod&show_icons=true&theme=transparent"/>
 </div><br><br>
-   
-![snake gif](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
-![GitHub Contributions](https://github.com/leandrolaureanod/leandrolaureanod/blob/output/github-contribution-grid-snake.svg)
-
