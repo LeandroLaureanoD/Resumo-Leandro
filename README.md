@@ -29,6 +29,8 @@
   <img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;">
   <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
   <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width: 100%;">
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23A0DB8E.svg?style=for-the-badge&logo=ionic&logoColor=white" style="max-width: 100%;">
+  <img alt="Android" src="https://img.shields.io/badge/Android-%2320232A.svg?style=for-the-badge&logo=android&logoColor=green" style="max-width: 100%;">
   <img alt="POSTGRESS" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">
   <img alt="JENKINS" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" style="max-width: 100%;">
   <img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
